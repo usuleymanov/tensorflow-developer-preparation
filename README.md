@@ -1,4 +1,4 @@
-# Tensorflow Developer Preparation
+# Tensorflow Developer Certification Preparation
 A collection of Jupyter notebooks that I have studied/created during preparation for Tensorflow Developer Certificate. The notebooks have been organized under Image, NLP, Time Series and Save-Load-model categories.
 # Content
 - **Image** - notebooks related to loading/reading image datasets in Tensorflow. Training and fine tuning image classification models using CNNs, data augmentation and custom callbacks.
